@@ -24,7 +24,7 @@ Source: Public Kaggle food delivery dataset
 
 Original Size: ~45,000 rows
 
-Imported Records: ~1,900 rows
+Imported Records: ~1,400 rows
 
 ⚠️ Note on Data Limitation
 During ingestion, the dataset contained malformed values (e.g., NaN in numeric fields), which caused CSV parsing issues in MySQL Workbench. A clean subset of the data was successfully ingested and used for analysis. All KPIs and insights are directionally valid and focused on analytical methodology rather than data volume.
